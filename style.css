@@ -1,0 +1,49 @@
+body{
+margin: 0;
+padding: 0;
+background: url(./img/BG.jpg) no-repeat;
+background-size: cover;}
+.box{
+	width: 350px;
+background: rgba(0, 0, 0, 0.4);
+padding: 80px;
+text-align: center;
+margin:auto;
+margin-top: 15%;
+color:white;
+font-family: "century gothic",sans-serif;
+
+}
+.box-img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	
+}
+.box h1 {
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box h5{
+	font-size: 15px;
+	letter-spacing:3px;
+	font-weight:100;
+}
+.box p {
+	text-align: justify;
+	
+}
+.button {
+    background-color: rgba(0,0,0,0.4);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
